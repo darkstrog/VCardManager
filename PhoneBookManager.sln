@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookManager", "PhoneBookManager\PhoneBookManager.csproj", "{EBBDA653-51C1-4D02-B14B-B7705FF7C9E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REMixERP.Net.vCards.Core", "REMixERP.Net.vCards.Core\REMixERP.Net.vCards.Core.csproj", "{40E25057-E61E-40CC-BE91-B925E607A900}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookManager.Core", "PhoneBookManager.Core\PhoneBookManager.Core.csproj", "{21037C8F-A2B2-4CEF-8CE1-BFA8290CCDE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		single_exe_release|Any CPU = single_exe_release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBDA653-51C1-4D02-B14B-B7705FF7C9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBDA653-51C1-4D02-B14B-B7705FF7C9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBDA653-51C1-4D02-B14B-B7705FF7C9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBDA653-51C1-4D02-B14B-B7705FF7C9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBDA653-51C1-4D02-B14B-B7705FF7C9E4}.single_exe_release|Any CPU.ActiveCfg = single_exe_release|Any CPU
+		{EBBDA653-51C1-4D02-B14B-B7705FF7C9E4}.single_exe_release|Any CPU.Build.0 = single_exe_release|Any CPU
+		{40E25057-E61E-40CC-BE91-B925E607A900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E25057-E61E-40CC-BE91-B925E607A900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E25057-E61E-40CC-BE91-B925E607A900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E25057-E61E-40CC-BE91-B925E607A900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E25057-E61E-40CC-BE91-B925E607A900}.single_exe_release|Any CPU.ActiveCfg = single_exe_release|Any CPU
+		{40E25057-E61E-40CC-BE91-B925E607A900}.single_exe_release|Any CPU.Build.0 = single_exe_release|Any CPU
+		{21037C8F-A2B2-4CEF-8CE1-BFA8290CCDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21037C8F-A2B2-4CEF-8CE1-BFA8290CCDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21037C8F-A2B2-4CEF-8CE1-BFA8290CCDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21037C8F-A2B2-4CEF-8CE1-BFA8290CCDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21037C8F-A2B2-4CEF-8CE1-BFA8290CCDE6}.single_exe_release|Any CPU.ActiveCfg = single_exe_release|Any CPU
+		{21037C8F-A2B2-4CEF-8CE1-BFA8290CCDE6}.single_exe_release|Any CPU.Build.0 = single_exe_release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A64E6B-4AAB-4AE3-91D2-A758994039E1}
+	EndGlobalSection
+EndGlobal

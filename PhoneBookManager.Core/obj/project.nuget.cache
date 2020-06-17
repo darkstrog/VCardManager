@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CETsQTWDjv5Ttgj7fVjLrspGWHVg5Q8M0RQJHJa9/EFqQA5aD+GwmNgFjViYm0Q99hcWh03VD9QcR+yACPpW3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\PhoneBookManager.Core\\PhoneBookManager.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ergo\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512",
+    "C:\\Users\\Ergo\\.nuget\\packages\\fsquotedprintable\\0.1.1\\fsquotedprintable.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

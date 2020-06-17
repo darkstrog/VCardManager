@@ -1,0 +1,12 @@
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\PhoneBookManager.Core.deps.json
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\PhoneBookManager.Core.dll
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\PhoneBookManager.Core.pdb
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.dll
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.pdb
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.csprojAssemblyReference.cache
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.AssemblyInfoInputs.cache
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.AssemblyInfo.cs
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.csproj.CopyComplete
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.dll
+C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.pdb

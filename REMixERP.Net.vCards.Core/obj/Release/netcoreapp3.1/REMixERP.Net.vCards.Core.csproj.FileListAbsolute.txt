@@ -1,0 +1,9 @@
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\bin\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.deps.json
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\bin\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.dll
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\bin\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.pdb
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.csprojAssemblyReference.cache
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.AssemblyInfoInputs.cache
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.AssemblyInfo.cs
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.dll
+C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Release\netcoreapp3.1\REMixERP.Net.vCards.Core.pdb

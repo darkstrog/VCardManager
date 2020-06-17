@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0nQde3JXI9Y0wK0JMT8bBTyi++86i5X41olyDerZXrldNRGLYJWpqSJ4ScQUIaXBkMBQJ3DFzfvm2FwSieRKtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\REMixERP.Net.vCards.Core\\REMixERP.Net.vCards.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ergo\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512",
+    "C:\\Users\\Ergo\\.nuget\\packages\\fsquotedprintable\\0.1.1\\fsquotedprintable.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Configurations>Debug;Release;single_exe_release</Configurations>
+    <ApplicationIcon>Contacts_43554.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Res\no_image150.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="3.1.1" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneBookManager.Core\PhoneBookManager.Core.csproj" />
+    <ProjectReference Include="..\REMixERP.Net.vCards.Core\REMixERP.Net.vCards.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Res\no_image150.png" />
+  </ItemGroup>
+
+</Project>
