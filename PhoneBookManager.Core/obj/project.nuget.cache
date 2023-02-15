@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "CETsQTWDjv5Ttgj7fVjLrspGWHVg5Q8M0RQJHJa9/EFqQA5aD+GwmNgFjViYm0Q99hcWh03VD9QcR+yACPpW3A==",
+  "dgSpecHash": "HPLiOGD24zdQmFxp1LcADUGl2qonwnJ9+0NiZ//8sOhI65XDVknppbWMBPE+Z5K1vgUPCBxt3sY36H6xhSqFPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\PhoneBookManager.Core\\PhoneBookManager.Core.csproj",
+  "projectFilePath": "D:\\Разработка\\GitRepository\\VCardManager\\PhoneBookManager.Core\\PhoneBookManager.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ergo\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512",
-    "C:\\Users\\Ergo\\.nuget\\packages\\fsquotedprintable\\0.1.1\\fsquotedprintable.0.1.1.nupkg.sha512"
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\fsquotedprintable\\0.1.1\\fsquotedprintable.0.1.1.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

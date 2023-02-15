@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "0nQde3JXI9Y0wK0JMT8bBTyi++86i5X41olyDerZXrldNRGLYJWpqSJ4ScQUIaXBkMBQJ3DFzfvm2FwSieRKtg==",
+  "dgSpecHash": "L8/WsNjEkXskEf9a9vtEqpIBEYKuk6UoXVWSXGSAcr5nbMGGyq2Nsa6ztU+CLa5Kw9YYAVV6vBW3Ws2CHD/JOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\REMixERP.Net.vCards.Core\\REMixERP.Net.vCards.Core.csproj",
+  "projectFilePath": "D:\\Разработка\\GitRepository\\VCardManager\\REMixERP.Net.vCards.Core\\REMixERP.Net.vCards.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ergo\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512",
-    "C:\\Users\\Ergo\\.nuget\\packages\\fsquotedprintable\\0.1.1\\fsquotedprintable.0.1.1.nupkg.sha512"
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\fsquotedprintable\\0.1.1\\fsquotedprintable.0.1.1.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

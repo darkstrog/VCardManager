@@ -5,10 +5,14 @@
       "FSharp.Core/4.3.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard1.6/FSharp.Core.dll": {}
+          "lib/netstandard1.6/FSharp.Core.dll": {
+            "related": ".optdata;.sigdata;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard1.6/FSharp.Core.dll": {}
+          "lib/netstandard1.6/FSharp.Core.dll": {
+            "related": ".optdata;.sigdata;.xml"
+          }
         },
         "resource": {
           "lib/netstandard1.6/cs/FSharp.Core.resources.dll": {
@@ -61,19 +65,27 @@
           "FSharp.Core": "4.3.4"
         },
         "compile": {
-          "lib/netstandard2.1/FsQuotedPrintable.dll": {}
+          "lib/netstandard2.1/FsQuotedPrintable.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/FsQuotedPrintable.dll": {}
+          "lib/netstandard2.1/FsQuotedPrintable.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "MaterialDesignColors/1.2.4": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.1/MaterialDesignColors.dll": {}
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.1/MaterialDesignColors.dll": {}
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
         }
       },
       "MaterialDesignThemes/3.1.1": {
@@ -82,10 +94,14 @@
           "MaterialDesignColors": "[1.2.4, 2.0.0)"
         },
         "compile": {
-          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {}
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {}
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "build": {
           "build/MaterialDesignThemes.targets": {}
@@ -94,10 +110,14 @@
       "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {}
+          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {}
+          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -306,43 +326,43 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ergo\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\": {},
+    "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\PhoneBookManager\\PhoneBookManager.csproj",
+      "projectUniqueName": "D:\\Разработка\\GitRepository\\VCardManager\\PhoneBookManager\\PhoneBookManager.csproj",
       "projectName": "PhoneBookManager",
-      "projectPath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\PhoneBookManager\\PhoneBookManager.csproj",
-      "packagesPath": "C:\\Users\\Ergo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\PhoneBookManager\\obj\\",
+      "projectPath": "D:\\Разработка\\GitRepository\\VCardManager\\PhoneBookManager\\PhoneBookManager.csproj",
+      "packagesPath": "C:\\Users\\Ergo-PC\\.nuget\\packages\\",
+      "outputPath": "D:\\Разработка\\GitRepository\\VCardManager\\PhoneBookManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ergo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Ergo-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\PhoneBookManager.Core\\PhoneBookManager.Core.csproj": {
-              "projectPath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\PhoneBookManager.Core\\PhoneBookManager.Core.csproj"
+            "D:\\Разработка\\GitRepository\\VCardManager\\PhoneBookManager.Core\\PhoneBookManager.Core.csproj": {
+              "projectPath": "D:\\Разработка\\GitRepository\\VCardManager\\PhoneBookManager.Core\\PhoneBookManager.Core.csproj"
             },
-            "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\REMixERP.Net.vCards.Core\\REMixERP.Net.vCards.Core.csproj": {
-              "projectPath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\REMixERP.Net.vCards.Core\\REMixERP.Net.vCards.Core.csproj"
+            "D:\\Разработка\\GitRepository\\VCardManager\\REMixERP.Net.vCards.Core\\REMixERP.Net.vCards.Core.csproj": {
+              "projectPath": "D:\\Разработка\\GitRepository\\VCardManager\\REMixERP.Net.vCards.Core\\REMixERP.Net.vCards.Core.csproj"
             }
           }
         }
@@ -355,6 +375,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MaterialDesignThemes": {
             "target": "Package",
@@ -371,7 +392,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -383,7 +405,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

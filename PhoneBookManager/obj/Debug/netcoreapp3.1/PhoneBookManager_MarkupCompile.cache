@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager\obj\Debug\netcoreapp3.1\
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager\obj\Debug\netcoreapp3.1\
 PhoneBookManager
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager\App.xaml
-4-382093566
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager\App.xaml
+4355580389
 
-28636736893
-199-580793884
+28-960823757
+1991700194957
 MainWindow.xaml;View\MainLayout.xaml;View\MiniCard.xaml;View\VCardV2.xaml;
 
 False

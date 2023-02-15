@@ -10,3 +10,16 @@ C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netc
 C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.csproj.CopyComplete
 C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.dll
 C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.pdb
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\PhoneBookManager.Core.deps.json
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\PhoneBookManager.Core.dll
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\PhoneBookManager.Core.pdb
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.dll
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\bin\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.pdb
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.csproj.AssemblyReference.cache
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.AssemblyInfoInputs.cache
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.AssemblyInfo.cs
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.csproj.CoreCompileInputs.cache
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.csproj.CopyComplete
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.dll
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager.Core\obj\Debug\netcoreapp3.1\PhoneBookManager.Core.pdb

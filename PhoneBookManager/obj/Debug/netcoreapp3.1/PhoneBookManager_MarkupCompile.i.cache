@@ -1,20 +1,20 @@
 ﻿PhoneBookManager
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager\obj\Debug\netcoreapp3.1\
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager\obj\Debug\netcoreapp3.1\
 PhoneBookManager
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\Ergo\source\repos\PhoneBookManager\PhoneBookManager\App.xaml
-4-382093566
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+D:\Разработка\GitRepository\VCardManager\PhoneBookManager\App.xaml
+4355580389
 
-29748512355
-199-580793884
+302031955768
+1991700194957
 MainWindow.xaml;View\MainLayout.xaml;View\MiniCard.xaml;View\VCardV2.xaml;
 
-True
+False
 

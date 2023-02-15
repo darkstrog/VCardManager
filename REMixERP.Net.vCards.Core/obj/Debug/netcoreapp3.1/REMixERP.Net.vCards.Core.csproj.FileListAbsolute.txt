@@ -20,3 +20,13 @@ C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Debug\n
 C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.AssemblyInfo.cs
 C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.dll
 C:\Users\Ergo\source\repos\PhoneBookManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.pdb
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\bin\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.deps.json
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\bin\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.dll
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\bin\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.pdb
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.csproj.AssemblyReference.cache
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.AssemblyInfoInputs.cache
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.AssemblyInfo.cs
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.csproj.CoreCompileInputs.cache
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.dll
+D:\Разработка\GitRepository\VCardManager\REMixERP.Net.vCards.Core\obj\Debug\netcoreapp3.1\REMixERP.Net.vCards.Core.pdb

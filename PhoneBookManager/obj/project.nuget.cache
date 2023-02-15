@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "qJnjzX8en6vrv4q/LTWtr9aPualk1EIx6fX3BwMV9whCvTcHn2svA0kIQ+jFKNoQvky9amCRphnw4rRut1j5bQ==",
+  "dgSpecHash": "Ckf9m/XkutNyBE0twshpXLY88PYHewL7glP4TVu1TLQ3pPTYG7JV5oUVd83mmtwQ5XoRzuvMP3oC/OSqGcw94w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ergo\\source\\repos\\PhoneBookManager\\PhoneBookManager\\PhoneBookManager.csproj",
+  "projectFilePath": "D:\\Разработка\\GitRepository\\VCardManager\\PhoneBookManager\\PhoneBookManager.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ergo\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512",
-    "C:\\Users\\Ergo\\.nuget\\packages\\fsquotedprintable\\0.1.1\\fsquotedprintable.0.1.1.nupkg.sha512",
-    "C:\\Users\\Ergo\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",
-    "C:\\Users\\Ergo\\.nuget\\packages\\materialdesignthemes\\3.1.1\\materialdesignthemes.3.1.1.nupkg.sha512",
-    "C:\\Users\\Ergo\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\fsquotedprintable\\0.1.1\\fsquotedprintable.0.1.1.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\materialdesignthemes\\3.1.1\\materialdesignthemes.3.1.1.nupkg.sha512",
+    "C:\\Users\\Ergo-PC\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
   ],
   "logs": []
 }
